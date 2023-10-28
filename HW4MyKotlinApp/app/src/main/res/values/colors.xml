@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="text_color">#E6001ED5</color>
-    <color name="switch_text_color">#DC5900D5</color>
-    <color name="screen_background">#7E019EFF</color>
-</resources>
