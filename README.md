@@ -9,4 +9,5 @@ All screenshots are added in word file
 HW4 My Kotlin App  
 Screenshots are saved in folder of kotlin app  
 MyMidtermApp  
-Screenshots and apk is in root folder.
+Screenshots and apk is in root folder.  
+Branch MidtermVivekKarhale is created and source code is pushed there
