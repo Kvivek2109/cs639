@@ -11,3 +11,5 @@ Screenshots are saved in folder of kotlin app
 MyMidtermApp  
 Screenshots and apk is in root folder.  
 Branch MidtermVivekKarhale is created and source code is pushed there
+Jetpack Compose Basics
+Code is uploaded in folder jetpackcomposebasicsapp and screenshots and build apk is present in root folder.
