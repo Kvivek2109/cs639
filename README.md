@@ -7,8 +7,8 @@ This repository showcases my progress and assignments for the CS639 course. Belo
 - Screenshots are added in word file.
 - [Visit Codelab](https://developer.android.com/codelabs/build-your-first-android-app#0) - Build Your First Android App in Java
 
-### [HW 2 HW1 + 2 new features:](HW%202%20MyFirstApptApp)
-- Code is present in folder 'HW 2 MyFirstApp'. [[↗]](HW%202%20MyFirstApptApp)
+### [HW 2 HW1 + 2 new features:](HW%202%20MyFirstApp)
+- Code is present in folder 'HW 2 MyFirstApp'. [[↗]](HW%202%20MyFirstApp)
 - Screenshots are added in word file and logcat file is present in root directory.
 - [Visit Codelab](https://developer.android.com/codelabs/build-your-first-android-app#0) - Build Your First Android App in Java
 
