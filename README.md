@@ -2,44 +2,56 @@
 
 This repository showcases my progress and assignments for the CS639 course. Below is a brief overview of each assignment:
 
-### [HW1 First Android App in Java](HW1MyFirstApp)
+### [HW 1 First Android App in Java](HW 1 MyFirstApp)
 
-- Screenshots are added in word file.
+- Code is present in folder ['HW 1 MyFirstApp'](HW 1 MyFirstApp) and Screenshots are added in word file.
 - [Visit Codelab - Build Your First Android App in Java](https://developer.android.com/codelabs/build-your-first-android-app#0)
 
-### [HW2 HW1 + 2 new features](MyFirstApp)
+### [HW 2 HW1 + 2 new features](2 MyFirstApptApp)
 
-- Code is present in folder 'MyFirstApp'.
+- Code is present in folder ['HW 2 MyFirstApp'](HW 2 MyFirstApp).
 - Screenshots are added in word file and logcat file is present in root directory.
 - [Visit Codelab - Build Your First Android App in Java](https://developer.android.com/codelabs/build-your-first-android-app#0)
 
-### [HW3 Github](https://github.com/Kvivek2109/cs639/blob/main/HW3%20-%20Github.docx)
+### [HW 3 Github](HW 3 Github)
 
-- All screenshots are added in word file.
+- All screenshots are added in [word](HW 3 Github) file.
 
-### [HW4 Introduction To Kotlin](HW4MyKotlinApp)
+### [HW 4 Introduction To Kotlin](HW 4 MyKotlinApp)
 
-- Screenshots are saved in folder of kotlin app.
+- Code is present in folder ['HW 4 MyKotlinApp'](HW 4 MyKotlinApp) and Screenshots are saved in root folder.
 - [Visit Codelab - Build Your First Android App in Kotlin](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0)
+
+### HW 5- Dependency Injection+Retrofit
+
+- [Dagger](HW 5A Dagger): code is present in folder ['HW 5A Dagger'](HW 5A Dagger).
+  - [Visit Codelab - Using Dagger in your Android app -Kotlin](https://developer.android.com/codelabs/android-dagger#0)
+- [Hilt](HW 5B Hilt - LoggingApp): code is present in folder ['HW 5B Hilt - LoggingApp'](HW 5B Hilt - LoggingApp).
+  - [Visit Codelab - Using Hilt in your Android app](https://developer.android.com/codelabs/android-hilt#0)
+- [Retrofit: Fetching data from Internet](HW 5C Retrofit - Mars Photos): code is present in folder ['HW 5C Retrofit - Mars Photos'](HW 5C Retrofit - Mars Photos).
+  - [Visit Codelab - Get data from the internet](https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0)
+- Screenshots, screen recording and build apk's of running app are present in root folder of respective app.
+
+
+### [HW 6 Jetpack Compose Basics](HW 6 Jetpack Compose Basics)
+
+- Code is uploaded in folder ['HW 6 Jetpack Compose Basics'](HW 6 Jetpack Compose Basics) and screenshots and build apk is present in root folder.
+- [Visit Codelab - Kotlin Fundamentals](https://developer.android.com/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems?hl=en#0)
+
+### [HW 7 Code Lab Kotlin Program](HW 7 Code Lab Kotlin Program)
+
+- All screenshots are added in [word](HW 7 Code Lab Kotlin Program) file.
+- Code is present in folder.
+- [Visit Codelab - Practice:Kotlin Fundamentals](https://developer.android.com/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems#0)
+- [Kotlin Playground](https://developer.android.com/training/kotlinplayground)
+
+### [HW 8 Kotlin Database:ROOM](HW 8 RoomWordSample)
+- Code is uploaded in folder ['HW 8 RoomWordSample'](HW 8 RoomWordSample) and screenshots, screen recording and build apk are present in root folder.
+- [Visit Codelab - Android Room with a View - Kotlin](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0)
 
 ### [Midterm Exam](MyMidtermApp)
 
-- Screenshots and apk is in root folder.
+- Code is present in folder ['MyMidtermApp'](MyMidtermApp) and Screenshots and apk is in root folder.
 - Branch [MidtermVivekKarhale](https://github.com/Kvivek2109/cs639/tree/MidtermVivekKarhale/MyMidtermApp) is created and source code is pushed there.
-
-### [Code Lab Kotlin Program - Jetpack Compose Basics](jetpackcomposebasicsapp)
-
-- Code is uploaded in folder jetpackcomposebasicsapp and screenshots and build apk is present in root folder.
-- [Visit Codelab - Kotlin Fundamentals](https://developer.android.com/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems?hl=en#0)
-
-## HW5- Dependency Injection+Retrofit
-
-- [Dagger](codelab-android-dagger-main): code is present in folder 'codelab-android-dagger-main'.
-  - [Visit Codelab - Using Dagger in your Android app -Kotlin](https://developer.android.com/codelabs/android-dagger#0)
-- [Hilt](codelab-android-hilt-main): code is present in folder 'codelab-android-hilt-main'.
-  - [Visit Codelab - Using Hilt in your Android app](https://developer.android.com/codelabs/android-hilt#0)
-- [Retrofit: Fetching data from Internet](android-basics-kotlin-mars-photos-app-starter): code is present in folder 'android-basics-kotlin-mars-photos-app-starter'.
-  - [Visit Codelab - Get data from the internet](https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0)
-- Screenshots, screen recording and build apk's of running app are present in root folder of respective app.
 
 Feel free to explore each assignment folder for detailed information and resources.
