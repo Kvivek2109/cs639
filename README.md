@@ -2,9 +2,9 @@
 
 This repository showcases my progress and assignments for the CS639 course. Below is a brief overview of each assignment:
 
-### [HW 1 First Android App in Java]("HW 1 MyFirstApp")
+### [HW 1 First Android App in Java](HW%201%20MyFirstApp)
 
-- Code is present in folder ['HW 1 MyFirstApp'](HW 1 MyFirstApp) and Screenshots are added in word file.
+- Code is present in folder ['HW 1 MyFirstApp'](HW%201%20MyFirstApp) and Screenshots are added in word file.
 - [Visit Codelab - Build Your First Android App in Java](https://developer.android.com/codelabs/build-your-first-android-app#0)
 
 ### [HW 2 HW1 + 2 new features](2 MyFirstApptApp)
