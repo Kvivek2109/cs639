@@ -2,14 +2,14 @@
 
 This repository showcases my progress and assignments for the CS639 course. Below is a brief overview of each assignment:
 
-### [HW 1 First Android App in Java](HW%201%20MyFirstApp)
+### [HW 1 First Android App in Java:](HW%201%20MyFirstApp)
 
-- Code is present in folder ['HW 1 MyFirstApp'](HW%201%20MyFirstApp) and Screenshots are added in word file.
+- Code is present in folder 'HW 1 MyFirstApp'[↗](HW%201%20MyFirstApp) and Screenshots are added in word file.
 - [Visit Codelab - Build Your First Android App in Java](https://developer.android.com/codelabs/build-your-first-android-app#0)
 
-### [HW 2 HW1 + 2 new features](2%20MyFirstApptApp)
+### [HW 2 HW1 + 2 new features](HW%202%20MyFirstApptApp)
 
-- Code is present in folder ['HW 2 MyFirstApp'](2%20MyFirstApptApp).
+- Code is present in folder ['HW 2 MyFirstApp'](HW%202%20MyFirstApptApp).
 - Screenshots are added in word file and logcat file is present in root directory.
 - [Visit Codelab - Build Your First Android App in Java](https://developer.android.com/codelabs/build-your-first-android-app#0)
 
@@ -24,11 +24,11 @@ This repository showcases my progress and assignments for the CS639 course. Belo
 
 ### HW 5- Dependency Injection+Retrofit
 
-- [Dagger](HW%205A%20Dagger): code is present in folder ['HW 5A Dagger'](HW%205A%20Dagger).
+- [HW 5A Dagger](HW%205A%20Dagger): code is present in folder ['HW 5A Dagger'](HW%205A%20Dagger).
   - [Visit Codelab - Using Dagger in your Android app -Kotlin](https://developer.android.com/codelabs/android-dagger#0)
-- [Hilt](HW%205B%20Hilt%20-%20LoggingApp): code is present in folder ['HW 5B Hilt - LoggingApp'](HW%205B%20Hilt%20-%20LoggingApp).
+- [HW 5B Hilt](HW%205B%20Hilt%20-%20LoggingApp): code is present in folder ['HW 5B Hilt - LoggingApp'](HW%205B%20Hilt%20-%20LoggingApp).
   - [Visit Codelab - Using Hilt in your Android app](https://developer.android.com/codelabs/android-hilt#0)
-- [Retrofit: Fetching data from Internet](HW%205C%20Retrofit%20-%20Mars%20Photos): code is present in folder ['HW 5C Retrofit - Mars Photos'](HW%205C%20Retrofit%20-%20Mars%20Photos).
+- [HW 5C Retrofit: Fetching data from Internet](HW%205C%20Retrofit%20-%20Mars%20Photos): code is present in folder ['HW 5C Retrofit - Mars Photos'](HW%205C%20Retrofit%20-%20Mars%20Photos).
   - [Visit Codelab - Get data from the internet](https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0)
 - Screenshots, screen recording and build apk's of running app are present in root folder of respective app.
 
@@ -52,6 +52,6 @@ This repository showcases my progress and assignments for the CS639 course. Belo
 ### [Midterm Exam](MyMidtermApp)
 
 - Code is present in folder ['MyMidtermApp'](MyMidtermApp) and Screenshots and apk is in root folder.
-- Branch [MidtermVivekKarhale](https://github.com/Kvivek2109/cs639/tree/MidtermVivekKarhale/MyMidtermApp) is created and source code is pushed there.
+- Branch ['MidtermVivekKarhale'](https://github.com/Kvivek2109/cs639/tree/MidtermVivekKarhale/MyMidtermApp) is created and source code is pushed there.
 
 Feel free to explore each assignment folder for detailed information and resources.
