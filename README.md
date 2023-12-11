@@ -36,7 +36,7 @@ This repository showcases my progress and assignments for the CS639 course. Belo
 ### [HW 6 Jetpack Compose Basics:](HW%206%20Jetpack%20Compose%20Basics)
 - Code is uploaded in folder 'HW 6 Jetpack Compose Basics'. [[↗]](HW%206%20Jetpack%20Compose%20Basics)
 - Screenshots and build apk is present in root folder.
-- [Visit Codelab](https://developer.android.com/codelabs/basic-android-kotlin-compose-kotlin-fundamentals-practice-problems?hl=en#0) - Kotlin Fundamentals
+- [Visit Codelab](https://developer.android.com/codelabs/jetpack-compose-basics#0) - Kotlin Fundamentals
 
 ### [HW 7 Code Lab Kotlin Program:](HW%207%20Code%20Lab%20Kotlin%20Program)
 - Code is uploaded in folder 'HW 7 Code Lab Kotlin Program'. [[↗]](HW%207%20Code%20Lab%20Kotlin%20Program)
