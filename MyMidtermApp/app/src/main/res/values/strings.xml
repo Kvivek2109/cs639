@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Vicky\'s Converter</string>
+    <string name="text_liters">Enter number of liters to convert into gallons</string>
+    <string name="text_gallons">0 gallons equals 0 liters.</string>
+    <string name="convert_button_text">Convert</string>
+</resources>
